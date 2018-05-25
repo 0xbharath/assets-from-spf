@@ -88,7 +88,7 @@ def print_assets(assets):
 
 @click.command()
 @click.argument('domain')
-@click.option('--asn/--no-asn', default=False,
+@click.option('--asn/--no-asn', '-a', default=False,
                 help='Enable/Disable ASN enumeration')
 def main(domain, asn):
     spf_record = get_spf_record(domain)
