@@ -13,8 +13,9 @@
 
 ## 3rd party package dependency 
 
-[**ipwhois**](https://github.com/secynic/ipwhois)
-[**click**](https://pypi.python.org/pypi/click)
+1. [**ipwhois**](https://github.com/secynic/ipwhois)
+
+2. [**click**](https://pypi.python.org/pypi/click)
 
 ## Setup
 
